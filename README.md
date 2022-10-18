@@ -12,3 +12,7 @@ https://justinswitzerland.github.io/self-taught-project6/
 
 那如果我要玩家1的概率提高到70%以上。
 我大概应该要如何下手？)
+
+
+我就直接先限定玩家一胜率提高到70%.
+两个问题：玩家二是50胜率？还是30胜率？
