@@ -16,3 +16,4 @@ https://justinswitzerland.github.io/self-taught-project6/
 
 我就直接先限定玩家一胜率提高到70%.
 两个问题：玩家二是50胜率？还是30胜率？
+玩家一第一次摇到1的时候直接转成6，第二次摇到1的时候才换人
